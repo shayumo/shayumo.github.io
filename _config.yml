@@ -8,7 +8,7 @@ subtitle:
 description: "面向对象面对君，不负代码不负卿"
 keywords:
 author: angy.zhang
-language: zh_ch
+language: zh-ch
 timezone: Asia/Shanghai
 
 # URL
@@ -55,8 +55,8 @@ index_generator:
   
 # Category & Tag
 default_category: uncategorized
-category_map:
-tag_map:
+category_map: [java,前端，中间件,linux]
+tag_map: [spring]
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
