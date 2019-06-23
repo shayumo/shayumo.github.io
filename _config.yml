@@ -8,8 +8,14 @@ subtitle:
 description: "面向对象面对君，不负代码不负卿"
 keywords:
 author: angy.zhang
-language: zh-ch
+language: [zh,en]
 timezone: Asia/Shanghai
+# config hexo-generator-i18n option (optional, this is default option)
+i18n:
+  type: [page, post]
+  generator: [index, archive, category, tag]
+
+
 
 archive_generator:
   enabled: true
