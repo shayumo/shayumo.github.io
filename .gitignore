@@ -1,12 +1,7 @@
-
 .DS_Store
-.idea/
-.idea/shayumo.github.io.iml
-### Example user template template
-### Example user template
-
-# IntelliJ project files
-.idea
-*.iml
-out
-gen
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
